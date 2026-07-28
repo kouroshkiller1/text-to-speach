@@ -1,5 +1,5 @@
 # ۱. نصب پیش‌نیازها
-!pip install -q google-genai gradio pydub
+import streamlit as st
 
 import os
 import io
